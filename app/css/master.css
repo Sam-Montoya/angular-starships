@@ -1,4 +1,7 @@
-
+body {
+  font-family: Helvetica, sans-serif;
+  font-weight: lighter;
+}
 nav{
   display:flex;
   justify-content: space-around;
